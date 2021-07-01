@@ -1,0 +1,85 @@
+body{
+    height: 100%;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+    background-position: center;
+}
+
+.hr{
+    background-color: blue;
+}
+
+.heading{
+    font-family: 'Love Ya Like A Sister', cursive;
+    color: blue;
+    text-shadow: 6px 4px lightblue;
+    font-size: 65px;
+    background-color: rgba(255, 255, 255, 0.952);
+    width: 65%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    box-shadow: 15px 15px 10px darkcyan;
+}
+
+.heading_div{
+    float: none;
+    background-color: rgba(255, 255, 255, 0.897);
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 15px 25px 15px skyblue;
+    font-size: 25px;
+}
+
+.heading_div2{
+    font-size: 20px;
+}
+
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    background-color: green;
+    line-height: 3;
+    text-align: center;
+
+}
+
+.result_para_tag{
+    box-shadow: 10px 10px 5px darkblue;
+    font-size: 150px;
+    background-color: lightseagreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Nothing You Could Do', cursive;
+    color: whitesmoke;
+    font-size: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    width: fit-content;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid darkblue;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    font-size: 50px;
+    font-family: 'Nova Cut', cursive;
+    width: 99.8%;
+    text-align: center;
+    font-weight: bolder;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+canvas{
+    border: 20px solid skyblue;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px whitesmoke;
+    margin-top: 720px;
+}
+
